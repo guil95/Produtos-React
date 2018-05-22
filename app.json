@@ -1,5 +1,21 @@
 {
   "expo": {
-    "sdkVersion": "26.0.0"
+    "sdkVersion": "26.0.0",
+    "name": "Produtos",
+    "description": "Catálogo de produtos",
+    "version": "1.0.0",
+    "slug": "",
+    "icon": "./icon/logo.png",
+    "splash": {
+      "image": "./icon/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF"
+    },
+    "ios": {
+      "bundleIdentifier": "com.hive.produtos"
+    },
+    "android": {
+      "package": "com.hive.produtos"
+    }
   }
 }
